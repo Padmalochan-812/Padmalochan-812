@@ -8,7 +8,7 @@
   <a href="https://twitter.com/0xsushanta" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  <a href="https://linkedin.com/in/sushanta-ruidas" target="_blank">
+  <a href="https://www.linkedin.com/in/padmalochansahoo" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
